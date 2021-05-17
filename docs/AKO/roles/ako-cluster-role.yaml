@@ -1,4 +1,4 @@
-name: ako-cluster-role
+name: ako-<k8-cluster-name>-cluster-role
 allow_unlabelled_access: false
 filters:
 - enabled: true
